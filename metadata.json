@@ -1,0 +1,6 @@
+{
+  "name": "T-PhoneBook",
+  "description": "高度な機能と安全な発信をサポートするスマート電話帳・ダイヤラーアプリ。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
